@@ -2,7 +2,7 @@
 
 WebRTC 関連の実験(HTML, JavaScript)を公開します。(MIT ライセンス)
 
-GitHub Pages は[こちら](https://mganeko.github.io/webrtcexpjp/)
+GitHub Pages は[こちら](https://nabehiro.github.io/webrtcexpjp/)
 
 ## Qiita記事のサンプル
 
